@@ -1,5 +1,6 @@
 import base.BaseTest;
-import org.junit.Assert;
+
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class GoodsToSchoolMenuItemTest extends BaseTest {
